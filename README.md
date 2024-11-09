@@ -54,4 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulManan27007&" alt="Abdul Manan" /></p>
 
-![snake animation](https://github.com/<seu AbdulManan27007>/<seu AbdulManan27007>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/AbdulManan27007/AbdulManan27007/blob/output/github-contribution-grid-snake2.svg)
